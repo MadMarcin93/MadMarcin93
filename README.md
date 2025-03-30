@@ -1,6 +1,6 @@
 👋 Hi, I’m @MadMarcin93
 
-👀 I’m interested in programming and curious about the world.
+👀 I’m interested in programming.
 🌱 I’m currently learning HTML, CSS, and JavaScript.
 💞️ I’m looking to collaborate on building websites.
 📫 How to reach me: (Still need to create a LinkedIn account or something like that.)
