@@ -4,7 +4,6 @@
 🌱 I’m currently learning HTML, CSS, and JavaScript.
 💞️ I’m looking to collaborate on building websites.
 📫 How to reach me: (Still need to create a LinkedIn account or something like that.)
-😄 Pronouns: (You can add them here if you’d like.)
 ⚡ Fun fact: I was a chef for the last 8 years, so I know how to cook something. Mise en place is important in both the kitchen and programming!
 
 <!---
